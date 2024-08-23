@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Roocket77
-<br>
+<br style="border: 3px solid #ccc">
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
