@@ -4,7 +4,7 @@
 
 
 # 💫 Sobre mi:
-Estoy estudiando el ultimo año de la carrera tecnico en desarrollo de software.
+Estoy estudiando el ultimo año de la carrera tecnico en desarrollo de software.<br>
 Actualmente estoy trabajando en un proyecto personal, con compañeros del instituto. El cual busca gestionar los turnos de cualquier servicio y llevar una estadistica generadas por el establecimiento.
 
 
