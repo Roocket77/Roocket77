@@ -1,7 +1,7 @@
 <h1>👋 Holaa!! Soy @Roocket77 </h1>
 
 - 👀 Mi nombre es Lautaro Dehesa, soy Argentino de la provincia de Cordoba 🇦🇷🇦🇷
-
+- Curriculum: https://github.com/Roocket77/Roockett77
 
 # 💫 Sobre mi:
 Estoy en el ultimo año de la carrera tecnico en desarrollo de software.<br>
