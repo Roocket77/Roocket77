@@ -4,7 +4,7 @@
 - Curriculum: https://github.com/Roocket77/Roockett77
 
 # 💫 Sobre mi:
-Estoy en el ultimo año de la carrera tecnico en desarrollo de software.<br>
+Soy tecnico en desarrollo de software.<br>
 Actualmente estoy trabajando en un proyecto, con compañeros del instituto. Es un turnero, el cual busca gestionar los turnos de cualquier servicio y llevar una estadistica generadas por el establecimiento.
 
 
